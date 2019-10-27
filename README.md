@@ -22,3 +22,7 @@ Uninstall by executing
 ## Usage
 Complete documentation on the `mesa_reader` module found
 [here](https://wmwolf.github.io/py_mesa_reader).
+
+## Work in progress
+
+This branch is expanding the functionality of py_mesa_reader for use with both running and reading mesa output.

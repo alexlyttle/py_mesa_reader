@@ -667,6 +667,14 @@ class MesaData:
             raise AttributeError(method_name)
 
 
+class HistoryData(MesaData):
+    pass
+
+
+class ProfileData(MesaData):
+    pass
+
+
 class MesaProfileIndex:
 
     """Structure containing data from the profile index from MESA output.
